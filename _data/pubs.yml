@@ -2,7 +2,7 @@ publications:
     - title:     "The interplay between seismic and aseismic slip along the Chaman fault illuminated by InSAR"
       author:    M. Dalaison, R. Jolivet, E. M. van Risjingen, S. Michel
       year:       2021
-      journal:   Journal of Geophysical Research: Solid Earth
+      journal:   Journal of Geophysical Research - Solid Earth
       pdf:        https://www.geologie.ens.fr/~jolivet//Publications_files/PDFs/2021_Dalaison_JGR.pdf
       doi:        10.1029/2021JB021935 
       pubnum:         3
@@ -24,7 +24,7 @@ publications:
     - title:     "A Kalman Filter Time Series Analysis method for InSAR"
       author:    M. Dalaison, R. Jolivet
       year:       2020
-      journal:     Journal of Geophysical Research: Solid Earth
+      journal:     Journal of Geophysical Research - Solid Earth
       pdf:         Dalaison_Jolivet_KFTS_2020.pdf
       doi:         10.1029/2019JB019150
       pubnum:         1
