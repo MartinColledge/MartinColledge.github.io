@@ -1,4 +1,39 @@
 publications:
+    - title:     "Distribution du glissement asismique et partitionnement de la déformation le long de la zone de faille de Chaman (Afghanistan-Pakistan) par InSAR"
+      author:    M. Dalaison, R. Jolivet, E. van Rijsingenn, S. Michel
+      year:    2021
+      conference:  27ème Réunion des Sciences de la Terre (RST)
+      location:    Lyon, France
+      pdf:
+      doi:
+    - title:     "The Kalman filter time series analysis for InSAR (KFTS):  application on volcanic and tectonic deformation"
+      author:    M. Dalaison, R. Jolivet
+      year:    2021
+      conference:  Fringe, 11th International Workshop on “Advances in the Science and Applications of SAR Interferometry and Sentinel-1 InSAR”
+      location:    Online
+      pdf:
+      doi:
+    - title:     "Slow slip events along the North Anatolian Fault"
+      author:    R. Jolivet, B. Rouet-Leduc, J. Jara, M. Dalaison, C. Hulbert, S. Michel, P. A. Johnson, Z. Çakir, S. Ergintav, A. Özdemir, U. Dogan
+      year:    2021
+      conference:  EGU General Assembly Conference
+      location:    Online
+      pdf:
+      doi:
+    - title:     "Deep Learning for Autonomous Extraction of Millimeter-scale Deformation in InSAR Time Series"
+      author:    Rouet-Leduc, B., Jolivet, R., Dalaison, M., Johnson, P. A., Hulbert, C.
+      year:    2021
+      conference:  EGU General Assembly Conference
+      location:    Online
+      pdf:
+      doi:
+    - title:     "From moderate earthquakes to continuous aseismic slip, a variety of ways to release strain along the Chaman fault (Pakistan, Afghanistan)"
+      author:    M. Dalaison, R. Jolivet, E. van Rijsingenn  
+      year:    2021
+      conference:  EGU General Assembly Conference
+      location:    Online
+      pdf:
+      doi:
     - title:     "The Distribution of Aseismic Slip and Partitioning of Deformation on Multiple Parallel Strike-slip Faults in the Chaman Fault System from InSAR"
       author:    Dalaison, M., Jolivet, R., Le Pourhiet, L., van Rijsingenn, E., Michel, S.
       year:    2020

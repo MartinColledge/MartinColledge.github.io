@@ -11,10 +11,11 @@ published: true
 {% include image.html url="images/photoprofile.JPG" caption="" height="190px" align="left" %}
 
 
-I am a PhD student in Geophysics under the supervision of Dr. [Romain Jolivet] [ROMAIN]
-at the [Laboratoire de Géologie] [LG] in [Ecole Normale Supérieure] [ENS].
+I am a postdoctoral researcher in Geophysics at the [Laboratoire de Géologie] [LG] 
+in [Ecole Normale Supérieure] [ENS]. I defended my PhD thesis under the 
+supervision of Dr. [Romain Jolivet] [ROMAIN] on the 7th of December 2021.
 
-I look at the deformation of Earth's surface with satelitte Radar images (more specifically, with InSAR) and GPS 
+I look at the deformation of Earth's surface with satelitte Radar images (more specifically, with InSAR) 
 to study the dynamics of active continental fault zone. Together with the physical understanding 
 of the earthquake cycle, I am interested in methodological improvements for automatic processing of 
 large amount of observations. 

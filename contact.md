@@ -7,7 +7,7 @@ published: true
 
 {:.centery}
 
-e-mail : manon.dalaison@ens.fr
+e-mail : dalaison@geologie.ens.fr
 
 
 address : 24 rue Lhomond 75005 Paris FRANCE
