@@ -28,7 +28,7 @@ regularly updated (see <a href="https://manondls.github.io/KFTS-InSAR/">document
 <div class="pubs">
   <div class="articles">
    <div class="captioned-img align=right">
-    <a href="../images/step5.pdf">
+    <a href="../images/step5.png">
     <img src="../images/step5.pdf" /> </a>
     Displacement in the direction parallel to the fault
    </div>
