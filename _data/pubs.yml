@@ -1,4 +1,25 @@
 publications:
+    - title:     "A snapshot of the long term evolution of a distributed tectonic plate boundary"
+      author:    M. Dalaison, R. Jolivet, L. Le Pourhiet
+      year:       2022
+      journal:    Submitted
+      pdf:      
+      type:     article
+      pubnum:   5
+    - title:     "Ce que le séisme en Afghanistan nous apprend de la tectonique des plaques dans la région"
+      author:    M. Dalaison
+      year:       2022
+      journal:    The Conversation
+      pdf:        https://theconversation.com/ce-que-le-seisme-en-afghanistan-nous-apprend-de-la-tectonique-des-plaques-dans-la-region-186321
+      pubnum:         4
+      type:           article
+    - title:     "Illuminating fault slip with InSAR: Strain release along the Chaman plate boundary"
+      author:    M. Dalaison
+      year:       2021
+      pdf:        http://www.theses.fr/s208472
+      type:         phdthesis
+      school:       Université PSL, Ecole Normale Supérieure
+
     - title:     "The interplay between seismic and aseismic slip along the Chaman fault illuminated by InSAR"
       author:    M. Dalaison, R. Jolivet, E. M. van Risjingen, S. Michel
       year:       2021

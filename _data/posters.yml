@@ -1,4 +1,11 @@
 publications:
+    - title:     "Mapping the distribution of strain along multiple strike-slip faults in the Chaman fault system from InSAR"
+      author:    M. Dalaison, R. Jolivet, L. Le Pourhiet
+      year:    2022
+      conference:  EGU General Assembly Conference
+      location:    Vienna, Austria
+      pdf:
+      doi:       10.5194/egusphere-egu22-1709
     - title:     "Distribution du glissement asismique et partitionnement de la déformation le long de la zone de faille de Chaman (Afghanistan-Pakistan) par InSAR"
       author:    M. Dalaison, R. Jolivet, E. van Rijsingenn, S. Michel
       year:    2021
@@ -33,7 +40,7 @@ publications:
       conference:  EGU General Assembly Conference
       location:    Online
       pdf:
-      doi:
+      doi:      10.5194/egusphere-egu21-3052
     - title:     "The Distribution of Aseismic Slip and Partitioning of Deformation on Multiple Parallel Strike-slip Faults in the Chaman Fault System from InSAR"
       author:    Dalaison, M., Jolivet, R., Le Pourhiet, L., van Rijsingenn, E., Michel, S.
       year:    2020
