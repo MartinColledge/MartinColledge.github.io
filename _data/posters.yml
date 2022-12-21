@@ -1,4 +1,24 @@
 publications:
+    - title: "Dramatic subsidence in Balochistan (Pakistan) due to extensive water withdrawal measured with InSAR"
+      author: M. Dalaison, R. Jolivet, K. Chanard, B. Raimbault
+      year: 2022
+      conference: AGU Fall meeting    
+      location: Chicago, USA
+    - title: "Exploring Physical Properties and Processing Choices at the Origin of Misclosure and Associated Biases in InSAR Time Series: a Case Study in Normandie (France)"
+      year: 2022
+      author: M. Dalaison, R. Jolivet, B. Pinel-Puysségur
+      conference: AGU Fall meeting
+      location: Chicago, USA
+    - title:  "Un instantané de l'évolution à long terme d'une limite de plaque tectonique distribuée entre l'Inde et L'Eurasie"
+      author: M. Dalaison, R. Jolivet, L. Le Pourhiet
+      year: 2022
+      conference: Colloque du G2
+      location: Grenoble, France 
+    - title: "Estimating multilooking biases during InSAR time series analysis"
+      author: M. Dalaison, R. Jolivet, B. Pinel-Puysségur
+      year: 2022
+      conference: Mesure de la Déformation par Imagerie Satellitaire (MDIS)
+      location: Axe-les-Thermes, France
     - title:     "Mapping the distribution of strain along multiple strike-slip faults in the Chaman fault system from InSAR"
       author:    M. Dalaison, R. Jolivet, L. Le Pourhiet
       year:    2022
