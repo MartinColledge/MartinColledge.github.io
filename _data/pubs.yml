@@ -1,4 +1,18 @@
 publications:
+    - title:     "Combining Interferometric Synthetic Aperture Radar and surface temperature time series to estimate permafrost thawing rates for the Hudson Bay Lowlands"
+      author:    F. Sergeant, M. Dalaison, S. Michel, R. Jolivet, R. Therrien, F. Ancil
+      year:       2022
+      journal:    Submitted
+      pdf:
+      type:     article
+      pubnum:   7
+    - title:     "Daily to centennial behavior of aseismic slip along the central section of the North Anatolian Fault"
+      author:    R. Jolivet, J. Jara, M. Dalaison, B. Rouet-Leduc, A. Ozdemir, U. Dogan, Z. Cakir, S. Ergintav
+      year:       2022
+      journal:    Submitted
+      pdf:      https://www.authorea.com/doi/full/10.1002/essoar.10512815.2
+      type:     article
+      pubnum:   6
     - title:     "A snapshot of the long term evolution of a distributed tectonic plate boundary"
       author:    M. Dalaison, R. Jolivet, L. Le Pourhiet
       year:       2022
@@ -8,7 +22,7 @@ publications:
       pubnum:   5
     - title:     "Ce que le séisme en Afghanistan nous apprend de la tectonique des plaques dans la région"
       author:    M. Dalaison
-      year:       2022
+      year:       4 July 2022
       journal:    The Conversation
       pdf:        https://theconversation.com/ce-que-le-seisme-en-afghanistan-nous-apprend-de-la-tectonique-des-plaques-dans-la-region-186321
       pubnum:         4

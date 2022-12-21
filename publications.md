@@ -3,25 +3,12 @@ layout: page
 permalink: /publications/
 title: 
 ---
-
-Jump to [Publications](#peer-reviewed-publications), [Conference Posters](#conference-poster)
-
----
-<br>
-
+<br><br>
 ## Publications
 {: style="color:grey; font-size: 120%; font-weight: bold; text-align: center;"}
 {% assign year = 1980 %}
 
 {% for pub in site.data.pubs.publications %}
-{% if {{pub.year}} == {{year}} %} 
-{% else %} 
----
-{{pub.year}}
-{: style="color:grey; font-size: 120%; font-weight: bold; text-align: left;"}
-
-{% assign year = {{pub.year}} %}
-{% endif %} 
 
 <span style="color: #D02090">▶︎</span> {% if pub.pdf %}[**{{pub.title}}**]({{pub.pdf}}){% else %} **{{pub.title}}** {% endif %}
  <br>{{pub.author}}<br>
@@ -29,12 +16,11 @@ Jump to [Publications](#peer-reviewed-publications), [Conference Posters](#confe
 {% elsif {{pub.type}} == "inproceeding" or {{pub.type}} == "incollection" %} in ***{{pub.booktitle}}***, eds. *{{pub.editor}}*
 {% elsif {{pub.type}} == "phdthesis" %}**{{pub.school}}**, Ph. D Thesis
 {% endif %} {% if pub.doi %} doi: {{pub.doi}} {% endif %}{% if pub.arxiv %} *{{pub.arxiv}}* {% endif %}({{pub.year}})
-{% if pub.supmat %}[sup mat]({{pub.supmat}}){% endif %}
-<br><br>
+{% if pub.supmat %}[sup mat]({{pub.supmat}}){% endif %}<br>
 {% endfor %}
 
 ---
-<br><br><br>
+<br><br>
 ## Conference Poster & Oral
 {: style="color:grey; font-size: 120%; font-weight: bold; text-align: center;"}
 ---
