@@ -7,10 +7,12 @@ publications:
       type:     article
       pubnum:   7
     - title:     "Daily to centennial behavior of aseismic slip along the central section of the North Anatolian Fault"
-      author:    R. Jolivet, J. Jara, M. Dalaison, B. Rouet-Leduc, A. Ozdemir, U. Dogan, Z. Cakir, S. Ergintav
+      author:    R. Jolivet, J. Jara, M. Dalaison, B. Rouet-Leduc, A. Ozdemir, U. Dogan, Z. Cakir, S. Ergintav, P. Dubernet
       year:       2023
-      journal:    submitted to JGR - Solid Earth
-      pdf:      https://www.authorea.com/doi/full/10.1002/essoar.10512815.2
+      journal:    Journal of Geophysical Research - Solid Earth
+      pdf:      https://www.geologie.ens.fr/~jolivet///Publications_files/PDFs/2023_Jolivet_JGR.pdf
+      doi:      10.1029/2022JB026018
+      supmat:   https://www.geologie.ens.fr/~jolivet///Publications_files/PDFs/2023_Jolivet_JGR_supp.pdf
       type:     article
       pubnum:   6
     - title:     "A snapshot of the long term evolution of a distributed tectonic plate boundary"
