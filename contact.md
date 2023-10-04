@@ -7,10 +7,9 @@ published: true
 
 {:.centery}
 
-e-mail : dalaison@geologie.ens.fr
+e-mail : dalaison@ipgp.fr
 
-
-address : 24 rue Lhomond 75005 Paris FRANCE
+address : 35, rue Hélène Brion - 75013 Paris, FRANCE
 
 {% include new-window-fix.html %}
 
