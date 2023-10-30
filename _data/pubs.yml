@@ -1,4 +1,11 @@
 publications:
+    - title:     "Cascade de séismes en Afghanistan : une séquence jamais vue ?"
+      author:    M. Dalaison, B. Raimbault, R. Jolivet 
+      year:       26 Octobre 2023
+      journal:    The Conversation
+      pdf:        https://theconversation.com/cascade-de-seismes-en-afghanistan-une-sequence-jamais-vue-215750?utm_source=twitter&utm_medium=twitterbutton
+      pubnum:         8
+      type:           article
     - title:     "Combining Interferometric Synthetic Aperture Radar and surface temperature time series to estimate permafrost thawing rates for the Hudson Bay Lowlands"
       author:    F. Sergeant, M. Dalaison, S. Michel, R. Jolivet, R. Therrien, F. Ancil
       year:       2023
