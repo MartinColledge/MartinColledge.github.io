@@ -1,5 +1,5 @@
-title: Manon Dalaison
-description: Manon Dalaison's webpage
+title: Martin Colledge
+description: Martin Colledge's webpage
 sourcecode: https://github.com/gchauras/www
 
 permalink: blog/:year/:month/:day/:title
@@ -11,9 +11,9 @@ baseurl: ""                     # the subpath of your site, e.g. /blog
 # baseurl: ""
 
 author:
-    name: Manon Dalaison
+    name: Martin Colledge
     #facebook: gchauras
-    #scholar: pBaL_DgAAAAJ
+    scholar: Yy_nfh4AAAAJ
 
 # Build settings
 markdown: kramdown
