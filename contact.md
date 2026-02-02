@@ -7,9 +7,9 @@ published: true
 
 {:.centery}
 
-e-mail : dalaison@ipgp.fr
+e-mail : colledge@geoazur.unice.fr
 
-address : 35, rue Hélène Brion - 75013 Paris, FRANCE
+address : 250 Rue Albert Einstein, 06560 Valbonne
 
 {% include new-window-fix.html %}
 
