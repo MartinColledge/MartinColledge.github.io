@@ -1,16 +1,16 @@
 publications:
-    - title:     "Annual variations in Nepalese seismicity: b-values and seismicity rates"
+    - title:      "Annual variations in Nepalese seismicity: b-values and seismicity rates"
       author:     Colledge, M., Chanard, K., Duverger, C., Schubnel, A., Adhikari, L. B., Bollinger, L.
       year:       2025
       journal:    Geophysical Journal International
       pdf:        https://doi.org/10.1093/gji/ggaf259
-      pubnum:         2
-      type:           article
-    - title:     "Susceptibility of Microseismic Triggering to Small Sinusoidal Stress Perturbations at the Laboratory Scale"
-      author:    Colledge, M., Aubry, J., Chanard, K., Pétrélis, F., Duverger, C., Bollinger, L., & Schubnel, A.
+      pubnum:     2
+      type:       article
+    - title:      "Susceptibility of Microseismic Triggering to Small Sinusoidal Stress Perturbations at the Laboratory Scale"
+      author:     Colledge, M., Aubry, J., Chanard, K., Pétrélis, F., Duverger, C., Bollinger, L., & Schubnel, A.
       year:       2023
-      journal:    Journal of Geophysical Research: Solid Earth
+      journal:    "Journal of Geophysical Research : Solid Earth"
       pdf:        https://doi.org/10.1029/2022JB025583
-      type:     article
-      pubnum:   1
+      type:       article
+      pubnum:     1
  
