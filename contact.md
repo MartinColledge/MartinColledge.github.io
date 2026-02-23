@@ -7,9 +7,9 @@ published: true
 
 {:.centery}
 
-e-mail : colledge (at) geoazur (dot) unice (dot) fr
+E-mail : colledge (at) geoazur (dot) unice (dot) fr
 
-address : 250 Rue Albert Einstein, 06560 Valbonne, FRANCE
+Address : 250 Rue Albert Einstein, 06560 Valbonne, FRANCE
 
 {% include new-window-fix.html %}
 
