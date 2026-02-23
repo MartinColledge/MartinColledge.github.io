@@ -15,10 +15,13 @@ Currently a post-doc at Géoazur laboratory, trying my hand at numerical modelli
 Interested in the relation between the secular and the transient, in rock mechanics and seismology, working on laboratory experiments, catalogues, and simulations.
 In it for the long-run and a passion for learning. 
 
+
 More info: 
 
-[ORCID]
+[ORCID] [ORCID]
+
 [Contact Details] [CONTACT]
+
 [Curriculum] [CV] 
 
 {% include new-window-fix.html %}
