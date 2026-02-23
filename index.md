@@ -8,7 +8,7 @@ published: true
 ---
 <br>
 
-{% include image.html url="images/photoprofile.JPG" caption="" height="190px" align="left" %}
+# ({% include image.html url="images/photoprofile.JPG" caption="" height="190px" align="left" %})
 
 
 Currently a post-doc at Géoazur laboratory, trying my hand at numerical modelling of earthquake ruptures and seismicity swarms.
