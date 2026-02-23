@@ -10,8 +10,8 @@
 #- title: "News"
 #  href: "/news/"
 #
-#- title: "Misc."
-#  href: "/misc/"
+- title: "Misc."
+  href: "/misc/"
 #
 #  subcategories:
 #   - subtitle: "Item 1"
