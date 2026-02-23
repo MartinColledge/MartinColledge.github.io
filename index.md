@@ -10,10 +10,8 @@ published: true
 
 
 
-Currently a post-doc at Géoazur laboratory, trying my hand at numerical modelling of earthquake ruptures and seismicity swarms.
-
-Interested in the relation between the secular and the transient, in rock mechanics and seismology, working on laboratory experiments, catalogues, and simulations.
-In it for the long-run and a passion for learning. 
+I am currently a post-doc at Géoazur laboratory, working on the modelling of earthquake ruptures and seismicity swarms using hydro-mechanical numerical models.
+I'm interested in the relation between tectonic and transient processes, in rock mechanics and seismology, working on laboratory experiments, catalogues, and simulations.
 
 
 More info: 
