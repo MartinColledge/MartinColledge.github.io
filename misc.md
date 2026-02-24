@@ -19,16 +19,16 @@ Address : 250 Rue Albert Einstein, 06560 Valbonne, FRANCE
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 20px 0;">
     <a href="https://www.researchgate.net/profile/Martin-Colledge" target="_blank" rel="noopener noreferrer" class="researchgate-icon">
-        <img src="/images/researchgate-icon-md-3328408648.png" alt="ResearchGate" style="width: 24px; height: 24px;">
+        <img src="/images/researchgate.png" alt="ResearchGate" style="width: 24px; height: 24px;">
     </a>
     <a href="https://github.com/MartinColledge" target="_blank" rel="noopener noreferrer" class="github-icon">
-        <img src="/images/github_PNG40-1417037603.png" alt="Github" style="width: 24px; height: 24px;">
+        <img src="/images/GitHub.png" alt="Github" style="width: 24px; height: 24px;">
     </a>
     <a href="https://scholar.google.com/citations?user=Yy_nfh4AAAAJ&hl=en&authuser=1" target="_blank" rel="noopener noreferrer" class="scholar-icon">
-        <img src="/images/google-scholar-logo-freelogovectors.net_-1385505697.png" alt="Scholar" style="width: 24px; height: 24px;">
+        <img src="/images/scholar.png" alt="Scholar" style="width: 24px; height: 24px;">
     </a>
     <a href="https://orcid.org/0000-0002-5444-9685" target="_blank" rel="noopener noreferrer" class="orcid-icon">
-        <img src="/images/ORCID-iD_icon_32x32.png" alt="Orcid" style="width: 24px; height: 24px;">
+        <img src="/images/ORCID.png" alt="Orcid" style="width: 24px; height: 24px;">
     </a>
 </div>
 
