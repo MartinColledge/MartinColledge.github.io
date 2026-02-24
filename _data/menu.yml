@@ -10,11 +10,11 @@
 #- title: "News"
 #  href: "/news/"
 #
-#- title: "Misc."
-#  href: "/misc/"
+- title: "Misc."
+  href: "/misc/"
 #
 #  subcategories:
-- subtitle: "Resume"
-  subhref: "/miscellany/Resume/"
-- subtitle: "Contact"
-  subhref: "/miscellany/Contact/"
+#- subtitle: "Resume"
+#  subhref: "/miscellany/Resume/"
+#- subtitle: "Contact"
+#  subhref: "/miscellany/Contact/"
