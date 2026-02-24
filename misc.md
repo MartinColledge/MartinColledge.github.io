@@ -46,5 +46,5 @@ Address : 250 Rue Albert Einstein, 06560 Valbonne, FRANCE
 {% include new-window-fix.html %}
 
 [CONTACT]: /contact/
-[CV]: files/CV_Eng.pdf
+[CV]: files/CV-main.pdf
 [ORCID]: https://orcid.org/0000-0002-5444-9685
