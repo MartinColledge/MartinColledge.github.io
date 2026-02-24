@@ -10,7 +10,7 @@ title:
 
 {% for pub in site.data.pubs.publications %}
 
-<span style="color: #D02090">▶︎</span> {% if pub.pdf %}[**{{pub.title}}**]({{pub.pdf}}){% else %} **{{pub.title}}** {% endif %}
+<span style="color: #FFD700">▶︎</span> {% if pub.pdf %}[**{{pub.title}}**]({{pub.pdf}}){% else %} **{{pub.title}}** {% endif %}
  <br>{{pub.author}}<br>
 {% if {{pub.type}} == "article" %} <span style="text-decoration:underline">*{{pub.journal}}*</span>
 {% elsif {{pub.type}} == "inproceeding" or {{pub.type}} == "incollection" %} in ***{{pub.booktitle}}***, eds. *{{pub.editor}}*

@@ -29,6 +29,7 @@ $red:        #b6321c;
 $violet:    #D02090;
 $white:		#FFFFFF;
 $ivory:      #F8F8FF;
+$yellow :    #FFD700;
 $black:     #000;
 
 $background:        $ivory;
@@ -36,10 +37,10 @@ $dark-background:   darken($background, 2%);
 $text-color:        $black;
 $text-light-color:  $grey;
 $url-color:         $blue;
-$url-hover-color:   $violet;
+$url-hover-color:   $yellow;
 $header-text-color: $grey-vdark;
-$header-hover-color:$violet;
-$header-hover-url:  $violet;
+$header-hover-color:$yellow;
+$header-hover-url:  $yellow;
 $line-color:        $grey-light;
 
 // Width of the content area
