@@ -28,9 +28,8 @@ Address : 250 Rue Albert Einstein, 06560 Valbonne, FRANCE
         <img src="/images/google-scholar-logo-freelogovectors.net_-1385505697.png" alt="Scholar" style="width: 24px; height: 24px;">
     </a>
     <a href="https://orcid.org/0000-0002-5444-9685" target="_blank" rel="noopener noreferrer" class="orcid-icon">
-        <img src="/images/orcid-1231889519.png" alt="Orcid" style="width: 24px; height: 24px;">
+        <img src="/images/ORCID-iD_icon_32x32.png" alt="Orcid" style="width: 24px; height: 24px;">
     </a>
-</div>
 </div>
 
 <style>
